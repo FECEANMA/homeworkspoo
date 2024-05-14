@@ -1,0 +1,11 @@
+Exercism
+1.2 twofer, resistorcolor
+1.3 color2, color3
+1.4 leap, rna
+1.5 spacaage, dyd
+
+
+1.2 ta: nestjs hola mundo .net django, tc:infografia 
+1.3 configuracion prisma seeds, fabrica escogida
+1.4 
+1.5 prisma typerorm, crud
